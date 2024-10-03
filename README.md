@@ -26,11 +26,13 @@ My main interests are web development and network security
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%230091bd?style=for-the-badge&logo=ARM&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={ecrawford4})
+
 ### How to reach me: 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecrawford4/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ecrawfordme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-crawford-791038331/)
-- [My Email](mailto:ethan.crawford5532@gmail.com?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ethan.crawford5532@gmail.com
-- [My University Email](mailto:ecrawford4@ewu.edu?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ecrawford4@ewu.edu
+> [My Email](mailto:ethan.crawford5532@gmail.com?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ethan.crawford5532@gmail.com
+> [My University Email](mailto:ecrawford4@ewu.edu?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ecrawford4@ewu.edu
 
