@@ -26,7 +26,7 @@ My main interests are web development and network security
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%230091bd?style=for-the-badge&logo=ARM&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={ecrawford4})
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ecrawford4)
 
 ### How to reach me: 
 
