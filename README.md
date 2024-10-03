@@ -2,7 +2,7 @@
 
 ### About Me:
 
-[![img](https://img.shields.io/badge/Visit%20My%20Website!-ffffff?style=for-the-badge)](https://ecrawford.me)
+[![img](https://img.shields.io/badge/Visit%20My%20Website!-97877a?style=for-the-badge)](https://ecrawford.me)
 
 I am a student of computer science at Eastern Washington University
 
