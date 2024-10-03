@@ -8,6 +8,10 @@ I am a student of computer science at Eastern Washington University
 
 My main interests are web development and network security
 
+### Languages I've Used:
+
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ### How to reach me: 
 
 - [My Linkedin](https://www.linkedin.com/in/ethan-crawford-791038331/)
