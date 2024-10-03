@@ -11,5 +11,5 @@ My main interests are web development and network security
 ### How to reach me: 
 
 - [My Linkedin](https://www.linkedin.com/in/ethan-crawford-791038331/)
-- [My Email](ethan.crawford5532@gmail.com)
-- [My University Email](ecrawford4@ewu.edu)
+- [My Email](mailto:ethan.crawford5532@gmail.com?subject=[Github%20Visitor]%20I%20visited%20your%20github%20profile)
+- [My University Email](mailto:ecrawford4@ewu.edu?subject=[Github%20Visitor]%20I%20visited%20your%20github%20profile)
