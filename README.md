@@ -24,11 +24,12 @@ My main interests are web development and network security
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%230091bd?style=for-the-badge&logo=ARM&logoColor=white)
 
 ### How to reach me: 
 
 [![img](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ecrawfordme)
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-crawford-791038331/)
-- [My Email](mailto:ethan.crawford5532@gmail.com?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile)
-- [My University Email](mailto:ecrawford4@ewu.edu?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile)
+- [My Email](mailto:ethan.crawford5532@gmail.com?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ethan.crawford5532@gmail.com
+- [My University Email](mailto:ecrawford4@ewu.edu?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ecrawford4@ewu.edu
 
