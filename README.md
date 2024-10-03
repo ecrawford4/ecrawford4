@@ -4,7 +4,7 @@
 
 - [My Website](ecrawford.me)
 
-I am a student of comuputer science at Eastern Washington University
+I am a student of computer science at Eastern Washington University
 
 My main interests are web development and network security
 
