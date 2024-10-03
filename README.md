@@ -1,18 +1,14 @@
 # Ethan Crawford
 
-## Hi there 👋
+### About Me:
 
-<!--
-**ecrawford4/ecrawford4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [My Website](ecrawford.me)
 
-Here are some ideas to get you started:
+I am a student of comuputer science at Eastern Washington University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are web development and network security
+
+### How to reach me: 
+
+- [My Email](ethan.crawford5532@gmail.com)
+- [My University Email](ecrawford4@ewu.edu)
