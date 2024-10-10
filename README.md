@@ -4,7 +4,7 @@
 
 [![img](https://img.shields.io/badge/Visit%20My%20Website!-97877a?style=for-the-badge)](https://ecrawford.me)
 
-I am a student of computer science at Eastern Washington University. I am expecting to graduate in Spring 2025.
+I am a student of computer science at Eastern Washington University.
 
 My main interests are web development and network security.
 
