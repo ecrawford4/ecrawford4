@@ -64,11 +64,11 @@ My main interests are web development and network security.
 
 #### Hardware:
 
-![HP](https://img.shields.io/badge/HP-4A90E2?style=for-the-badge&logo=hp&logoColor=F0F0F0)
-![Dell](https://img.shields.io/badge/Dell-00599C?style=for-the-badge&logo=dell&logoColor=F0F0F0)
-![Lenovo](https://img.shields.io/badge/Lenovo-aa0000?style=for-the-badge&logo=lenovo&logoColor=F0F0F0)
-![Mac](https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![TIVA TM4C123GH6PM](https://img.shields.io/badge/TIVA%20TM4C123GH6PM-%230091bd?style=for-the-badge&logo=Windows%2011&logoColor=white)
+[![HP](https://img.shields.io/badge/HP-4A90E2?style=for-the-badge&logo=hp&logoColor=F0F0F0)](https://www.hp.com/us-en/home.html)
+[![Dell](https://img.shields.io/badge/Dell-00599C?style=for-the-badge&logo=dell&logoColor=F0F0F0)](https://www.dell.com/en-us)
+[![Lenovo](https://img.shields.io/badge/Lenovo-aa0000?style=for-the-badge&logo=lenovo&logoColor=F0F0F0)](https://www.lenovo.com/us/en/)
+[![Mac](https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/mac/)
+[![TIVA TM4C123GH6PM](https://img.shields.io/badge/TIVA%20TM4C123GH6PM-%230091bd?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.ti.com/product/TM4C123GH6PM)
 <!--![iPad]()-->
 <!--![iPhone]()-->
 
