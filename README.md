@@ -57,11 +57,20 @@ My main interests are web development and network security.
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Firefox Developer Edition](https://img.shields.io/badge/FirefoxDeveloperEdition-7139FF?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Firefox Developer Edition](https://img.shields.io/badge/Firefox%20Developer%20Edition-7139FF?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 #### Hardware:
 
+![HP](https://img.shields.io/badge/HP-4A90E2?style=for-the-badge&logo=hp&logoColor=F0F0F0)
+![Dell](https://img.shields.io/badge/Dell-00599C?style=for-the-badge&logo=dell&logoColor=F0F0F0)
+![Lenovo](https://img.shields.io/badge/Lenovo-aa0000?style=for-the-badge&logo=lenovo&logoColor=F0F0F0)
+![Mac](https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![TIVA TM4C123GH6PM](https://img.shields.io/badge/TIVA%20TM4C123GH6PM-%230091bd?style=for-the-badge&logo=Windows%2011&logoColor=white)
+<!--![iPad]()-->
+<!--![iPhone]()-->
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ecrawford4) -->
@@ -71,6 +80,9 @@ My main interests are web development and network security.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecrawford4/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ecrawfordme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-crawford-791038331/)
+<!--![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)-->
+<!--![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)-->
+
 > [My Email](mailto:ethan.crawford5532@gmail.com?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ethan.crawford5532@gmail.com
 
 > [My University Email](mailto:ecrawford4@ewu.edu?subject=%5BGithub%20Visitor%5D%20I%20visited%20your%20github%20profile) | ecrawford4@ewu.edu
