@@ -36,7 +36,7 @@ My main interests are web development and network security.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Nano](https://img.shields.io/badge/Nano-FF00FF.svg?style=for-the-badge$logo=nano&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-FF00FF.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 
 ### Technology I've Used:
