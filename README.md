@@ -4,9 +4,9 @@
 
 [![img](https://img.shields.io/badge/Visit%20My%20Website!-97877a?style=for-the-badge)](https://ecrawford.me)
 
-I am a student of computer science at Eastern Washington University.
+In 2025, I earned my Bachelor of Science in Computer Science from Eastern Washington University.
 
-My main interests are web development and network security.
+My main interests are web development, native development, data, and security.
 
 ### Languages I've Used:
 
